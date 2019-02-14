@@ -6,17 +6,25 @@
 
 ## style.css
 
-/*
+
 Theme Name:   Theme enfant Child
+
 Template:     twentynineteen
+
 Description:  Twenty Nineteen Child Theme
+
 Author:       Justine Telmann
+
 Author URI:   Ness
+
 Version:      1.0.0
+
 License:      GNU General Public License v3 or later
+
 License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+
 Text Domain:  twenty-nineteen-child
-*/
+
 
 copier/coller les code ci-dessus en modifier au minimum les 3 premieres lignes
 
@@ -42,17 +50,23 @@ Permet de modifier la structure HTML.
 
 ## style.css
 
-/ *
-Theme Name: Child Child Theme
-Template: twentynineteen
-Description: Twenty Nineteen Child Theme
-Author: Justine Telmann
-Author URI: Ness
-Version: 1.0.0
-License: GNU General Public License v3 or later
-URI License: http://www.gnu.org/licenses/gpl-3.0.html
-Text Domain: twenty-nineteen-child
-* /
+Theme Name:   Theme enfant Child
+
+Template:     twentynineteen
+
+Description:  Twenty Nineteen Child Theme
+
+Author:       Justine Telmann
+
+Author URI:   Ness
+
+Version:      1.0.0
+
+License:      GNU General Public License v3 or later
+
+License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+
+Text Domain:  twenty-nineteen-child
 
 copy / paste the code above modifying at least the first 3 lines
 
