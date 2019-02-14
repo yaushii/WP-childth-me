@@ -1,4 +1,5 @@
 ## Création d'un thème enfant.
+Dans un nouveau dossier:
 
 - créer 2 fichiers
 - 1 style.css
@@ -43,6 +44,8 @@ Permet de modifier la structure HTML.
 
 
 ### Anglais
+
+In the new folder :
 
 - create 2 files
 - 1 style.css
