@@ -1,5 +1,5 @@
 ## Création d'un thème enfant.
-Dans un nouveau dossier:
+Dans un nouveau dossier dans le dossier des thèmes:
 
 - créer 2 fichiers
 - 1 style.css
