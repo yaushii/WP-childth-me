@@ -42,6 +42,10 @@ wp_enqueue_style( 'child-style', get_stylesheet_directory_uri() . '/style.css', 
 ```
 Permet de modifier la structure HTML.
 
+## installation 
+
+aller dans thème et activé le thème enfant.
+
 
 ### Anglais
 
@@ -89,3 +93,7 @@ wp_enqueue_style( 'child-style', get_stylesheet_directory_uri() . '/style.css', 
 Permet de modifier la structure HTML.
 
 Edit the HTML structure.
+
+## installation
+
+go into theme and activate the child theme.
