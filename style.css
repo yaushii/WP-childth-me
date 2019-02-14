@@ -1,0 +1,18 @@
+/*
+Theme Name:   Theme enfant Child
+Template:     twentynineteen
+Description:  Twenty Nineteen Child Theme
+Author:       Justine Telmann
+Author URI:   Ness
+Version:      1.0.0
+License:      GNU General Public License v3 or later
+License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain:  twenty-nineteen-child
+*/
+
+.elementor-31 .elementor-element.elementor-element-0bfcdc4{
+    background-color: blue;
+}
+h2{
+    background-color: yellow;
+}
