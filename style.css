@@ -19,3 +19,7 @@ h2{
 body{
     background-color: aqua;
 }
+.elementor img:hover{
+    -moz-transform:rotate(540deg);
+            
+  }
